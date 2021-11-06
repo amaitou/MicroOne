@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGQ,gFAAwE;AAgBhF,OACA;EACC,OAAO,EAAE,GAAG;EACZ,gBAAgB,EAfN,OAAO;;ACMb,gDACA;EACC,WAAW,EAAE,sBAAsB;EACnC,SAAS,EAAE,IAAI;EACf,cAAc,EAAE,GAAG;EACnB,qDACA;IACC,KAAK,EDbD,OAAO;ACgBb,uDACA;EACC,WAAW,EAAE,MAAM;EACnB,SAAS,EAAE,IAAI;AAEhB,gDACA;EACC,SAAS,EAAE,IAAI;EACf,cAAc,EAAE,GAAG",
+"sources": ["../../_props.scss","About.scss"],
+"names": [],
+"file": "About.css"
+}

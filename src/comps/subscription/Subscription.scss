@@ -1,0 +1,44 @@
+@import '../../props' ;
+
+.subscription
+{
+	background-color: #e8efe9 ;
+	.container
+	{
+		background-color: #aaf1e2 ;
+		border-radius: 10px ;
+		.row
+		{
+			.c
+			{
+				.left-side
+				{
+					.title
+					{
+						font-weight: bolder;
+					}
+					.sub-title
+					{
+						font-style: italic;
+					}
+				}
+			}
+
+			.c
+			{
+				.row
+				{
+					.input
+					{
+						input
+						{
+							outline: none ;
+							border: none ;
+							border-radius: 5px ;
+						}
+					}
+				}
+			}
+		}
+	}
+}

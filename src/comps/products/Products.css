@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+.active {
+  padding: 5px;
+  background-color: #05a081; }
+
+.products .container .title h2 {
+  font-weight: bolder;
+  color: #05a081; }
+.products .container .row .c .card:hover {
+  transition: 0.3s;
+  background-color: #f2f3f4; }
+  .products .container .row .c .card:hover .card-body {
+    transform: scale(1.05); }
+.products .container .row .c .card .card-header .product-name {
+  font-weight: bolder; }
+.products .container .row .c .card .card-header .stars {
+  font-size: 15px; }
+.products .container .row .c .card .card-body {
+  transition: 0.3s; }
+.products .container .row .c .card .card-footer .pricing .price .first-price {
+  color: red; }
+.products .container .row .c .card .card-footer .pricing .price .second-price {
+  font-weight: bolder; }
+
+/*# sourceMappingURL=Products.css.map */

@@ -1,0 +1,14 @@
+
+
+@import '../../props' ;
+
+.faq
+{
+	.title
+	{
+		h2
+		{
+			@include title() ;
+		}
+	}
+}

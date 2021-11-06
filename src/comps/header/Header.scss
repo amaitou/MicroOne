@@ -1,0 +1,38 @@
+
+@import '../../props' ;
+
+header
+{
+	background-image: url('../../images/covers/cover.jpg');
+	background-size: cover ;
+	background-position: center;
+	
+	.img-overlay
+	{
+		background-color: rgba(0,0,0,0.8) ;
+	}
+	.content
+	{
+		color: white;
+		.brand-name
+		{
+			font-family: 'Rampart One', cursive;
+			font-size: 40px ;
+			letter-spacing: 2px ;
+			span
+			{
+				color: $colorone ;
+			}
+		}
+		.brand-description
+		{
+			font-size: 20px ;
+		}
+		.empty-line
+		{
+			height: 3px ;
+			background-color: $colorone ;
+			border-radius: 30px ;
+		}
+	}
+}

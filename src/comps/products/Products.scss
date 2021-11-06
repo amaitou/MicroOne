@@ -1,0 +1,66 @@
+
+@import '../../props' ;
+
+.products
+{
+	.container
+	{
+		.title
+		{
+			h2
+			{
+				@include title() ;
+			}
+		}
+		.row
+		{
+			.c
+			{
+				.card
+				{
+					&:hover
+					{
+						transition: 0.3s ;
+						background-color: #f2f3f4 ;
+						.card-body
+						{
+							transform: scale(1.05);
+						}
+					}
+					.card-header
+					{
+						.product-name
+						{
+							font-weight: bolder;
+						}
+						.stars
+						{
+							font-size: 15px;
+						}
+					}
+					.card-body
+					{
+						transition: 0.3s ;
+					}
+					.card-footer
+					{
+						.pricing
+						{
+							.price
+							{
+								.first-price
+								{
+									color: red ;
+								}
+								.second-price
+								{
+									font-weight: bolder;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

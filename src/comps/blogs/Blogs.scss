@@ -1,0 +1,61 @@
+
+@import '../../props' ;
+
+.blogs
+{
+	.container
+	{
+		.title
+		{
+			h2
+			{
+				@include title() ;
+			}
+		}
+		.row
+		{
+			.c
+			{
+				.row
+				{
+					.left-side-title
+					{
+						.title
+						{
+							@include title() ;
+							font-size: 25px ;
+							color: grey ;
+						}
+					}
+					.right-side-title
+					{
+						.title
+						{
+							@include title() ;
+							font-size: 25px ;
+							color: grey ;
+						}
+					}
+					.c
+					{
+						.card
+						{
+							transition: 0.3s ;
+							border-radius: 10px ;
+							.card-img-top
+							{
+								border-top-right-radius: 5px ;
+								border-top-left-radius: 5px ;
+							}
+							&:hover
+							{
+								background-color: #f2f3f4 ;
+								transform: scale(1.05);
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+header {
+  background-image: url("../../images/covers/cover.jpg");
+  background-size: cover;
+  background-position: center; }
+  header .img-overlay {
+    background-color: rgba(0, 0, 0, 0.8); }
+  header .content {
+    color: white; }
+    header .content .brand-name {
+      font-family: 'Rampart One', cursive;
+      font-size: 40px;
+      letter-spacing: 2px; }
+      header .content .brand-name span {
+        color: #05a081; }
+    header .content .brand-description {
+      font-size: 20px; }
+    header .content .empty-line {
+      height: 3px;
+      background-color: #05a081;
+      border-radius: 30px; }
+
+/*# sourceMappingURL=Header.css.map */

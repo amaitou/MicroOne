@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+.active {
+  padding: 5px;
+  background-color: #05a081; }
+
+.faq .title h2 {
+  font-weight: bolder;
+  color: #05a081; }
+
+/*# sourceMappingURL=Faq.css.map */

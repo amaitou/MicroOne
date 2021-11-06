@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+.active {
+  padding: 5px;
+  background-color: #05a081; }
+
+.blogs .container .title h2 {
+  font-weight: bolder;
+  color: #05a081; }
+.blogs .container .row .c .row .left-side-title .title {
+  font-weight: bolder;
+  color: #05a081;
+  font-size: 25px;
+  color: grey; }
+.blogs .container .row .c .row .right-side-title .title {
+  font-weight: bolder;
+  color: #05a081;
+  font-size: 25px;
+  color: grey; }
+.blogs .container .row .c .row .c .card {
+  transition: 0.3s;
+  border-radius: 10px; }
+  .blogs .container .row .c .row .c .card .card-img-top {
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px; }
+  .blogs .container .row .c .row .c .card:hover {
+    background-color: #f2f3f4;
+    transform: scale(1.05); }
+
+/*# sourceMappingURL=Blogs.css.map */

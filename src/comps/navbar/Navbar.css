@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+.active {
+  padding: 5px;
+  background-color: #05a081; }
+
+.navbar .container .collapse .navbar-nav .nav-item .nav-link {
+  color: black;
+  font-weight: bolder;
+  font-size: 15px; }
+.navbar .container .collapse .navbar-nav .link .nav-link {
+  position: relative; }
+  .navbar .container .collapse .navbar-nav .link .nav-link::before {
+    position: absolute;
+    content: "";
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background-color: white;
+    border-radius: 30px;
+    transition: all ease 0.2s; }
+  .navbar .container .collapse .navbar-nav .link .nav-link:hover {
+    color: white; }
+    .navbar .container .collapse .navbar-nav .link .nav-link:hover::before {
+      width: 100%; }
+.navbar .container .collapse .navbar-nav .icon a {
+  transition: 0.3s; }
+  .navbar .container .collapse .navbar-nav .icon a:hover {
+    color: white; }
+
+/*# sourceMappingURL=Navbar.css.map */

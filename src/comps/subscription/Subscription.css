@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+.active {
+  padding: 5px;
+  background-color: #05a081; }
+
+.subscription {
+  background-color: #e8efe9; }
+  .subscription .container {
+    background-color: #aaf1e2;
+    border-radius: 10px; }
+    .subscription .container .row .c .left-side .title {
+      font-weight: bolder; }
+    .subscription .container .row .c .left-side .sub-title {
+      font-style: italic; }
+    .subscription .container .row .c .row .input input {
+      outline: none;
+      border: none;
+      border-radius: 5px; }
+
+/*# sourceMappingURL=Subscription.css.map */

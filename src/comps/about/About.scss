@@ -1,0 +1,38 @@
+
+@import '../../props' ;
+
+.about
+{
+	.container
+	{
+		.row
+		{
+			.c
+			{
+				.left-side
+				{
+					.about-name
+					{
+						font-family: 'Rampart One', cursive;
+						font-size: 40px ;
+						letter-spacing: 2px ;
+						span
+						{
+							color: $colorone ;
+						}
+					}
+					.about-description
+					{
+						font-weight: bolder;
+						font-size: 15px ;
+					}
+					.about-text
+					{
+						font-size: 17px ;
+						letter-spacing: 1px ;
+					}
+				}
+			}
+		}
+	}
+}

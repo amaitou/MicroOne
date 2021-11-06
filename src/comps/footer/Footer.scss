@@ -1,0 +1,72 @@
+
+@import '../../props' ;
+
+.footer
+{
+	.container
+	{
+		.row
+		{
+			.c
+			{
+				.s
+				{
+					.title
+					{
+						h5
+						{
+							font-weight: bold;
+						}
+					}
+				}
+				.first-side
+				{
+					.first-sub-side
+					{
+						.brand-name
+						{
+							font-family: 'Rampart One', cursive;
+							font-size: 20px ;
+							letter-spacing: 2px ;
+							span
+							{
+								color: $colorone ;
+							}
+						}
+					}
+					.second-sub-side
+					{
+						p
+						{
+							a
+							{
+								color: $colorone ;
+								font-weight: bolder ;
+								text-decoration: none ;
+							}
+						}
+					}
+				}
+
+				.s
+				{
+					.links
+					{
+						a
+						{
+							text-decoration: none;
+						}
+					}
+					p
+					{
+						.owner, .year, .fab
+    					{
+							font-weight: bolder;
+        					color: $colorone ;
+    					}
+					}
+				}
+			}
+		}
+	}
+}

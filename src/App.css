@@ -1,0 +1,9 @@
+#btn-up {
+  z-index: 9999;
+  top: 90%;
+  left: 2%;
+  transition: 0.3s; }
+  #btn-up:hover {
+    transform: scale(1.1); }
+
+/*# sourceMappingURL=App.css.map */

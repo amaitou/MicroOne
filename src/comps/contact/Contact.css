@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+.active {
+  padding: 5px;
+  background-color: #05a081; }
+
+.contact .title h2 {
+  font-weight: bolder;
+  color: #05a081; }
+.contact .row .c {
+  font-weight: bolder;
+  font-size: 15px; }
+  .contact .row .c .left-side div p {
+    border-left: 3px solid #05a081; }
+    .contact .row .c .left-side div p i {
+      color: #05a081; }
+
+/*# sourceMappingURL=Contact.css.map */

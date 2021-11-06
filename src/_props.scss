@@ -1,0 +1,24 @@
+
+// fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+// global variables
+
+$colorone: #05a081 ;
+
+// global functions
+
+@mixin title
+{
+	font-weight: bolder;
+	color: $colorone ;
+}
+
+// global classes
+
+.active
+{
+	padding: 5px ;
+	background-color: $colorone ;
+}

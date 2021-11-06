@@ -1,0 +1,35 @@
+
+@import '../../props' ;
+
+.contact
+{
+	.title
+	{
+		h2
+		{
+			@include title() ;
+		}
+	}
+	.row
+	{
+		.c
+		{
+			font-weight: bolder;
+			font-size: 15px;
+			.left-side
+			{
+				div
+				{
+					p
+					{
+						border-left: 3px solid $colorone ;
+						i
+						{
+							color: $colorone ;
+						}
+					}
+				}
+			}
+		}
+	}
+}
