@@ -2,11 +2,12 @@
 ## About
 
 Landing page for a TV E-Commerce website as an instance of a template
+
 ## Usage
 
 As it is a *React* app, you must run a few commands firstly to have the app run properly, so after downloading the repository and *cd* to the folder just type the following commands
 
-* Install missing node modules
+* Install missing modules
     ```
     npm install 
     ```
@@ -14,6 +15,7 @@ As it is a *React* app, you must run a few commands firstly to have the app run 
     ```
     npm start 
     ```
+
 ## Contct me
 
 * Facebook : https://www.facebook.com/Lelouche0x1
