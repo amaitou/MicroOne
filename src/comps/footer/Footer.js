@@ -81,8 +81,8 @@ class Footer extends Component
 						
 						<div className = 'c col-lg-4 col-12 my-auto'>
 							<div className = 's fourth-section text-lg-start text-center mb-lg-0 mb-5'>
-								<p className = 'text-capitalize lh-2'>this website has been create and designed by <span className = "owner">amine ait ouaazghour</span> also known us<span className = "owner"> lelouche01 </span>
-	                		open sourced at <a href = "https://github.com/Lelouche01" target = "_blank" rel="noreferrer"><i className = "fab fa-github"></i></a>, and publishd on <span className = "year">2021</span></p>
+								<p className = 'text-capitalize lh-2'>this website has been created and designed by <span className = "owner">amine ait ouazghour</span> also known as<span className = "owner"> lelouche01 </span>
+	                		open sourced at <a href = "https://github.com/Lelouche01" target = "_blank" rel="noreferrer"><i className = "fab fa-github"></i></a>, and published on <span className = "year">2021</span></p>
 							</div>
 						</div>
 					</div>
