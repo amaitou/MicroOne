@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/MicroOne/static/css/main.094dd188.chunk.css",
+    "main.js": "/MicroOne/static/js/main.0667ed97.chunk.js",
+    "main.js.map": "/MicroOne/static/js/main.0667ed97.chunk.js.map",
+    "runtime-main.js": "/MicroOne/static/js/runtime-main.6b6d873a.js",
+    "runtime-main.js.map": "/MicroOne/static/js/runtime-main.6b6d873a.js.map",
+    "static/js/2.4e0759a2.chunk.js": "/MicroOne/static/js/2.4e0759a2.chunk.js",
+    "static/js/2.4e0759a2.chunk.js.map": "/MicroOne/static/js/2.4e0759a2.chunk.js.map",
+    "index.html": "/MicroOne/index.html",
+    "static/css/main.094dd188.chunk.css.map": "/MicroOne/static/css/main.094dd188.chunk.css.map",
+    "static/js/2.4e0759a2.chunk.js.LICENSE.txt": "/MicroOne/static/js/2.4e0759a2.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/MicroOne/static/media/1.7e5cf4e8.png",
+    "static/media/1.jpg": "/MicroOne/static/media/1.cd1b0a3f.jpg",
+    "static/media/2.jpg": "/MicroOne/static/media/2.41d84077.jpg",
+    "static/media/2.png": "/MicroOne/static/media/2.e77bb248.png",
+    "static/media/3.jpg": "/MicroOne/static/media/3.532290f0.jpg",
+    "static/media/3.png": "/MicroOne/static/media/3.5d891bd6.png",
+    "static/media/4.jpg": "/MicroOne/static/media/4.64549abc.jpg",
+    "static/media/5.png": "/MicroOne/static/media/5.950bcbc9.png",
+    "static/media/5.jpg": "/MicroOne/static/media/5.d20c7be8.jpg",
+    "static/media/6.png": "/MicroOne/static/media/6.379a3383.png",
+    "static/media/6.jpg": "/MicroOne/static/media/6.7d152991.jpg",
+    "static/media/7.jpg": "/MicroOne/static/media/7.08a5aaa7.jpg",
+    "static/media/7.png": "/MicroOne/static/media/7.7b36a935.png",
+    "static/media/9.png": "/MicroOne/static/media/9.2632c955.png",
+    "static/media/about.eaf994d0.svg": "/MicroOne/static/media/about.eaf994d0.svg",
+    "static/media/contact.e9da3885.svg": "/MicroOne/static/media/contact.e9da3885.svg",
+    "static/media/Header.css": "/MicroOne/static/media/cover.0dec254b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b6d873a.js",
+    "static/js/2.4e0759a2.chunk.js",
+    "static/css/main.094dd188.chunk.css",
+    "static/js/main.0667ed97.chunk.js"
+  ]
+}
