@@ -25,7 +25,7 @@ class Contact extends Component
 	render()
 	{
 		return (
-			<section className = 'contact py-5' id = 'contact'>
+			<section className = 'contact py-5 mb-5' id = 'contact'>
 				<div className = 'container'>
 					<div className = 'title'>
 						<h2 className = 'text-capitalize text-center mb-5 position-relative p-3'>contact us</h2>

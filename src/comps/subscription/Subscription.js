@@ -7,7 +7,7 @@ class Subscription extends Component
 	render()
 	{
 		return (
-			<section className = 'subscription py-5 text-dark'>
+			<section className = 'subscription py-5 text-dark  mb-5'>
 				<div className = 'container shadow-lg'>
 					<div className = 'row p-3'>
 						<div className = 'c col-lg-6 col-12'>

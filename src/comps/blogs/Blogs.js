@@ -46,7 +46,7 @@ class Blogs extends Component
 	render()
 	{
 		return (
-			<section className = 'blogs py-5' id = 'blogs'>
+			<section className = 'blogs py-5 mb-5' id = 'blogs'>
 				<div className = 'container'>
 					<div className = 'title'>
 						<h2 className = 'text-capitalize text-center mb-5 position-relative p-3'>blogs</h2>

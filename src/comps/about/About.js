@@ -8,7 +8,7 @@ class About extends Component
 	render()
 	{
 		return (
-			<section className = 'about py-5 mt-5' id = 'about'>
+			<section className = 'about py-5 my-5' id = 'about'>
 				<div className = 'container'>
 					<div className= "row align-items-center">
 						<div className = "c col-md-6 col-12">

@@ -46,7 +46,7 @@ class Products extends Component
 	render()
 	{
 		return (
-			<section className = 'products py-5' id = 'products'>
+			<section className = 'products py-5 mb-5' id = 'products'>
 				<div className = 'container'>
 					<div className = 'title'>
 						<h2 className = 'text-capitalize text-center mb-5 p-3 position-relative'>products</h2>

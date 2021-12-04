@@ -4,11 +4,26 @@
 
 .faq
 {
-	.title
+	.container
 	{
-		h2
+		.title
 		{
-			@include title() ;
+			h2
+			{
+				@include title() ;
+			}
+		}
+		.accordion
+		{
+			.accordion-item
+			{
+				.accordion-button
+				{
+					font-weight: bolder;
+					color: black ;
+					background-color: white ;
+				}
+			}
 		}
 	}
 }
