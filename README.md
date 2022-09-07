@@ -6,7 +6,7 @@
 
 Landing Page For A TV E-Commerce Website As An Instance Of A Template
 
-* Visit The Website From Here **[MicroOne](https://lelouche01.github.io/MicroOne/)**
+* Visit The Website From Here **[MicroOne](https://amaitou.github.io/MicroOne/)**
 
 ## Usage
 
