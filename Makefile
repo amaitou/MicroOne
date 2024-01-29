@@ -23,4 +23,4 @@ clean:
 	docker container rm -f $(shell docker container ls -aq)
 	docker image rm -f $(shell docker image ls -q)
 
-.PHONY: build run show cleanz
+.PHONY: build run show clean
